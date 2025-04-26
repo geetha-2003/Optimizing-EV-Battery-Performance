@@ -3,8 +3,7 @@
 
 Implemented and evaluated two powerful algorithms:
 
-XGBoost and
-LightGBM
+XGBoost and LightGBM
 
 📊 Used real-world battery parameters as input features for model training and evaluation.
 
